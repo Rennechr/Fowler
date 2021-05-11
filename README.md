@@ -1,3 +1,4 @@
 # Fowler
 
-CURRENTLY UNDER CONSTRUCTION
+Software Engineering Homework Refactoring
+
