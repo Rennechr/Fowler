@@ -7,13 +7,13 @@ class Customer {
     private Vector rentals = new Vector();
     public Customer (String newname){       //constructor
         name = newname;
-    };
+    }
     public void addRental(Rental arg) {
         rentals.addElement(arg);
-    };
+    }
     public String getName (){
         return name;
-    };
+    }
     public String statement()
     {
         double totalAmount = 0;
